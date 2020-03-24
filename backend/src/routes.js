@@ -1,16 +1,10 @@
 const express = require('express');
 
+const NGOController = require('./controllers/NGOController')
+
 const routes = express.Router();
 
-routes.post('/users', (req, res) => {
-  const body = req.body;
-
-  console.log(body);
-
-  return res.json({ 
-    evento: 'Semana Omnistack 11.0', 
-    aluno: 'Artur Brasil'
-  });
-});
+routes.get('/ongs', NGOController.index);
+routes.post('/ongs', NGOController.create);
 
 module.exports = routes;
