@@ -9,8 +9,8 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#screenshots-web">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#screenshots-mobile">Mobile</a>
+  <a href="#-screenshots-web">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-screenshots-mobile">Mobile</a>
 </p>
 
 
@@ -33,7 +33,7 @@ Na aplicação web qualquer ONG pode se cadastrar e publicar os casos que estão
 No mobile os heróis conseguem visualizar todos os casos publicados pelas ongs e entrar em contato com elas.
 
 
-## Screenshots Web
+## 📷 💻 Screenshots Web
 
 - Logon:
 <p align="center">
@@ -62,7 +62,7 @@ No mobile os heróis conseguem visualizar todos os casos publicados pelas ongs e
 </p>
 
 
-## Screenshots Mobile
+## 📷 📱 Screenshots Mobile
 
 
 - Splash Screen:
